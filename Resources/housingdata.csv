@@ -1,1471 +1,1471 @@
-,Prices,Beds,Baths,SquareFt,Loc
-0,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-2,260000.0,3,2,2444,"North Chesterfield, VA"
-3,380000.0,5,3,2750,"Midlothian, VA"
-4,489000.0,3,3,2351,"Glen Allen, VA"
-5,285000.0,3,3,1440,"Chesterfield, VA"
-6,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-7,270000.0,3,2,1067,"Fredericksburg, VA"
-8,379000.0,4,3,1940,"Charlottesville, VA"
-9,300000.0,3,2,1905,"Williamsburg, VA"
-10,315000.0,4,4,2695,"North Chesterfield, VA"
-11,234950.0,3,2,1053,"Gloucester, VA"
-12,234900.0,4,2,1568,"Suffolk, VA"
-13,399999.0,4,2,2100,"Montross, VA"
-14,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-15,739000.0,4,3,2768,"Henrico, VA"
-16,255000.0,5,3,1900,"Suffolk, VA"
-17,299000.0,3,2,1300,"Suffolk, VA"
-18,375000.0,3,2,1569,"Suffolk, VA"
-19,285000.0,3,3,1704,"Williamsburg, VA"
-20,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-21,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-22,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-23,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-24,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-25,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-26,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-27,350000.0,4,3,2238,"Fredericksburg, VA"
-28,295000.0,4,3,2016,"Henrico, VA"
-29,305000.0,3,3,1620,"Henrico, VA"
-30,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-31,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-32,260000.0,3,2,2444,"North Chesterfield, VA"
-33,380000.0,5,3,2750,"Midlothian, VA"
-34,489000.0,3,3,2351,"Glen Allen, VA"
-35,285000.0,3,3,1440,"Chesterfield, VA"
-36,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-37,270000.0,3,2,1067,"Fredericksburg, VA"
-38,379000.0,4,3,1940,"Charlottesville, VA"
-39,300000.0,3,2,1905,"Williamsburg, VA"
-40,315000.0,4,4,2695,"North Chesterfield, VA"
-41,234950.0,3,2,1053,"Gloucester, VA"
-42,234900.0,4,2,1568,"Suffolk, VA"
-43,399999.0,4,2,2100,"Montross, VA"
-44,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-45,739000.0,4,3,2768,"Henrico, VA"
-46,255000.0,5,3,1900,"Suffolk, VA"
-47,299000.0,3,2,1300,"Suffolk, VA"
-48,375000.0,3,2,1569,"Suffolk, VA"
-49,285000.0,3,3,1704,"Williamsburg, VA"
-50,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-51,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-52,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-53,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-54,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-55,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-56,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-57,350000.0,4,3,2238,"Fredericksburg, VA"
-58,295000.0,4,3,2016,"Henrico, VA"
-59,305000.0,3,3,1620,"Henrico, VA"
-60,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-61,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-62,260000.0,3,2,2444,"North Chesterfield, VA"
-63,380000.0,5,3,2750,"Midlothian, VA"
-64,489000.0,3,3,2351,"Glen Allen, VA"
-65,285000.0,3,3,1440,"Chesterfield, VA"
-66,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-67,270000.0,3,2,1067,"Fredericksburg, VA"
-68,379000.0,4,3,1940,"Charlottesville, VA"
-69,300000.0,3,2,1905,"Williamsburg, VA"
-70,315000.0,4,4,2695,"North Chesterfield, VA"
-71,234950.0,3,2,1053,"Gloucester, VA"
-72,234900.0,4,2,1568,"Suffolk, VA"
-73,399999.0,4,2,2100,"Montross, VA"
-74,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-75,739000.0,4,3,2768,"Henrico, VA"
-76,255000.0,5,3,1900,"Suffolk, VA"
-77,299000.0,3,2,1300,"Suffolk, VA"
-78,375000.0,3,2,1569,"Suffolk, VA"
-79,285000.0,3,3,1704,"Williamsburg, VA"
-80,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-81,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-82,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-83,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-84,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-85,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-86,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-87,350000.0,4,3,2238,"Fredericksburg, VA"
-88,295000.0,4,3,2016,"Henrico, VA"
-89,305000.0,3,3,1620,"Henrico, VA"
-90,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-91,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-92,260000.0,3,2,2444,"North Chesterfield, VA"
-93,380000.0,5,3,2750,"Midlothian, VA"
-94,489000.0,3,3,2351,"Glen Allen, VA"
-95,285000.0,3,3,1440,"Chesterfield, VA"
-96,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-97,270000.0,3,2,1067,"Fredericksburg, VA"
-98,379000.0,4,3,1940,"Charlottesville, VA"
-99,300000.0,3,2,1905,"Williamsburg, VA"
-100,315000.0,4,4,2695,"North Chesterfield, VA"
-101,234950.0,3,2,1053,"Gloucester, VA"
-102,234900.0,4,2,1568,"Suffolk, VA"
-103,399999.0,4,2,2100,"Montross, VA"
-104,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-105,739000.0,4,3,2768,"Henrico, VA"
-106,255000.0,5,3,1900,"Suffolk, VA"
-107,299000.0,3,2,1300,"Suffolk, VA"
-108,375000.0,3,2,1569,"Suffolk, VA"
-109,285000.0,3,3,1704,"Williamsburg, VA"
-110,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-111,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-112,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-113,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-114,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-115,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-116,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-117,350000.0,4,3,2238,"Fredericksburg, VA"
-118,295000.0,4,3,2016,"Henrico, VA"
-119,305000.0,3,3,1620,"Henrico, VA"
-120,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-121,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-122,260000.0,3,2,2444,"North Chesterfield, VA"
-123,380000.0,5,3,2750,"Midlothian, VA"
-124,489000.0,3,3,2351,"Glen Allen, VA"
-125,285000.0,3,3,1440,"Chesterfield, VA"
-126,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-127,270000.0,3,2,1067,"Fredericksburg, VA"
-128,379000.0,4,3,1940,"Charlottesville, VA"
-129,300000.0,3,2,1905,"Williamsburg, VA"
-130,315000.0,4,4,2695,"North Chesterfield, VA"
-131,234950.0,3,2,1053,"Gloucester, VA"
-132,234900.0,4,2,1568,"Suffolk, VA"
-133,399999.0,4,2,2100,"Montross, VA"
-134,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-135,739000.0,4,3,2768,"Henrico, VA"
-136,255000.0,5,3,1900,"Suffolk, VA"
-137,299000.0,3,2,1300,"Suffolk, VA"
-138,375000.0,3,2,1569,"Suffolk, VA"
-139,285000.0,3,3,1704,"Williamsburg, VA"
-140,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-141,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-142,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-143,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-144,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-145,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-146,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-147,350000.0,4,3,2238,"Fredericksburg, VA"
-148,295000.0,4,3,2016,"Henrico, VA"
-149,305000.0,3,3,1620,"Henrico, VA"
-150,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-151,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-152,260000.0,3,2,2444,"North Chesterfield, VA"
-153,380000.0,5,3,2750,"Midlothian, VA"
-154,489000.0,3,3,2351,"Glen Allen, VA"
-155,285000.0,3,3,1440,"Chesterfield, VA"
-156,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-157,270000.0,3,2,1067,"Fredericksburg, VA"
-158,379000.0,4,3,1940,"Charlottesville, VA"
-159,300000.0,3,2,1905,"Williamsburg, VA"
-160,315000.0,4,4,2695,"North Chesterfield, VA"
-161,234950.0,3,2,1053,"Gloucester, VA"
-162,234900.0,4,2,1568,"Suffolk, VA"
-163,399999.0,4,2,2100,"Montross, VA"
-164,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-165,739000.0,4,3,2768,"Henrico, VA"
-166,255000.0,5,3,1900,"Suffolk, VA"
-167,299000.0,3,2,1300,"Suffolk, VA"
-168,375000.0,3,2,1569,"Suffolk, VA"
-169,285000.0,3,3,1704,"Williamsburg, VA"
-170,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-171,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-172,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-173,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-174,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-175,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-176,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-177,350000.0,4,3,2238,"Fredericksburg, VA"
-178,295000.0,4,3,2016,"Henrico, VA"
-179,305000.0,3,3,1620,"Henrico, VA"
-180,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-181,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-182,260000.0,3,2,2444,"North Chesterfield, VA"
-183,380000.0,5,3,2750,"Midlothian, VA"
-184,489000.0,3,3,2351,"Glen Allen, VA"
-185,285000.0,3,3,1440,"Chesterfield, VA"
-186,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-187,270000.0,3,2,1067,"Fredericksburg, VA"
-188,379000.0,4,3,1940,"Charlottesville, VA"
-189,300000.0,3,2,1905,"Williamsburg, VA"
-190,315000.0,4,4,2695,"North Chesterfield, VA"
-191,234950.0,3,2,1053,"Gloucester, VA"
-192,234900.0,4,2,1568,"Suffolk, VA"
-193,399999.0,4,2,2100,"Montross, VA"
-194,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-195,739000.0,4,3,2768,"Henrico, VA"
-196,255000.0,5,3,1900,"Suffolk, VA"
-197,299000.0,3,2,1300,"Suffolk, VA"
-198,375000.0,3,2,1569,"Suffolk, VA"
-199,285000.0,3,3,1704,"Williamsburg, VA"
-200,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-201,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-202,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-203,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-204,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-205,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-206,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-207,350000.0,4,3,2238,"Fredericksburg, VA"
-208,295000.0,4,3,2016,"Henrico, VA"
-209,305000.0,3,3,1620,"Henrico, VA"
-210,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-211,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-212,260000.0,3,2,2444,"North Chesterfield, VA"
-213,380000.0,5,3,2750,"Midlothian, VA"
-214,489000.0,3,3,2351,"Glen Allen, VA"
-215,285000.0,3,3,1440,"Chesterfield, VA"
-216,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-217,270000.0,3,2,1067,"Fredericksburg, VA"
-218,379000.0,4,3,1940,"Charlottesville, VA"
-219,300000.0,3,2,1905,"Williamsburg, VA"
-220,315000.0,4,4,2695,"North Chesterfield, VA"
-221,234950.0,3,2,1053,"Gloucester, VA"
-222,234900.0,4,2,1568,"Suffolk, VA"
-223,399999.0,4,2,2100,"Montross, VA"
-224,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-225,739000.0,4,3,2768,"Henrico, VA"
-226,255000.0,5,3,1900,"Suffolk, VA"
-227,299000.0,3,2,1300,"Suffolk, VA"
-228,375000.0,3,2,1569,"Suffolk, VA"
-229,285000.0,3,3,1704,"Williamsburg, VA"
-230,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-231,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-232,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-233,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-234,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-235,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-236,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-237,350000.0,4,3,2238,"Fredericksburg, VA"
-238,295000.0,4,3,2016,"Henrico, VA"
-239,305000.0,3,3,1620,"Henrico, VA"
-240,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-241,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-242,260000.0,3,2,2444,"North Chesterfield, VA"
-243,380000.0,5,3,2750,"Midlothian, VA"
-244,489000.0,3,3,2351,"Glen Allen, VA"
-245,285000.0,3,3,1440,"Chesterfield, VA"
-246,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-247,270000.0,3,2,1067,"Fredericksburg, VA"
-248,379000.0,4,3,1940,"Charlottesville, VA"
-249,300000.0,3,2,1905,"Williamsburg, VA"
-250,315000.0,4,4,2695,"North Chesterfield, VA"
-251,234950.0,3,2,1053,"Gloucester, VA"
-252,234900.0,4,2,1568,"Suffolk, VA"
-253,399999.0,4,2,2100,"Montross, VA"
-254,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-255,739000.0,4,3,2768,"Henrico, VA"
-256,255000.0,5,3,1900,"Suffolk, VA"
-257,299000.0,3,2,1300,"Suffolk, VA"
-258,375000.0,3,2,1569,"Suffolk, VA"
-259,285000.0,3,3,1704,"Williamsburg, VA"
-260,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-261,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-262,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-263,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-264,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-265,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-266,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-267,350000.0,4,3,2238,"Fredericksburg, VA"
-268,295000.0,4,3,2016,"Henrico, VA"
-269,305000.0,3,3,1620,"Henrico, VA"
-270,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-271,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-272,260000.0,3,2,2444,"North Chesterfield, VA"
-273,380000.0,5,3,2750,"Midlothian, VA"
-274,489000.0,3,3,2351,"Glen Allen, VA"
-275,285000.0,3,3,1440,"Chesterfield, VA"
-276,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-277,270000.0,3,2,1067,"Fredericksburg, VA"
-278,379000.0,4,3,1940,"Charlottesville, VA"
-279,300000.0,3,2,1905,"Williamsburg, VA"
-280,315000.0,4,4,2695,"North Chesterfield, VA"
-281,234950.0,3,2,1053,"Gloucester, VA"
-282,234900.0,4,2,1568,"Suffolk, VA"
-283,399999.0,4,2,2100,"Montross, VA"
-284,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-285,739000.0,4,3,2768,"Henrico, VA"
-286,255000.0,5,3,1900,"Suffolk, VA"
-287,299000.0,3,2,1300,"Suffolk, VA"
-288,375000.0,3,2,1569,"Suffolk, VA"
-289,285000.0,3,3,1704,"Williamsburg, VA"
-290,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-291,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-292,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-293,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-294,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-295,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-296,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-297,350000.0,4,3,2238,"Fredericksburg, VA"
-298,295000.0,4,3,2016,"Henrico, VA"
-299,305000.0,3,3,1620,"Henrico, VA"
-300,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-301,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-302,260000.0,3,2,2444,"North Chesterfield, VA"
-303,380000.0,5,3,2750,"Midlothian, VA"
-304,489000.0,3,3,2351,"Glen Allen, VA"
-305,285000.0,3,3,1440,"Chesterfield, VA"
-306,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-307,270000.0,3,2,1067,"Fredericksburg, VA"
-308,379000.0,4,3,1940,"Charlottesville, VA"
-309,300000.0,3,2,1905,"Williamsburg, VA"
-310,315000.0,4,4,2695,"North Chesterfield, VA"
-311,234950.0,3,2,1053,"Gloucester, VA"
-312,234900.0,4,2,1568,"Suffolk, VA"
-313,399999.0,4,2,2100,"Montross, VA"
-314,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-315,739000.0,4,3,2768,"Henrico, VA"
-316,255000.0,5,3,1900,"Suffolk, VA"
-317,299000.0,3,2,1300,"Suffolk, VA"
-318,375000.0,3,2,1569,"Suffolk, VA"
-319,285000.0,3,3,1704,"Williamsburg, VA"
-320,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-321,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-322,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-323,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-324,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-325,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-326,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-327,350000.0,4,3,2238,"Fredericksburg, VA"
-328,295000.0,4,3,2016,"Henrico, VA"
-329,305000.0,3,3,1620,"Henrico, VA"
-330,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-331,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-332,260000.0,3,2,2444,"North Chesterfield, VA"
-333,380000.0,5,3,2750,"Midlothian, VA"
-334,489000.0,3,3,2351,"Glen Allen, VA"
-335,285000.0,3,3,1440,"Chesterfield, VA"
-336,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-337,270000.0,3,2,1067,"Fredericksburg, VA"
-338,379000.0,4,3,1940,"Charlottesville, VA"
-339,300000.0,3,2,1905,"Williamsburg, VA"
-340,315000.0,4,4,2695,"North Chesterfield, VA"
-341,234950.0,3,2,1053,"Gloucester, VA"
-342,234900.0,4,2,1568,"Suffolk, VA"
-343,399999.0,4,2,2100,"Montross, VA"
-344,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-345,739000.0,4,3,2768,"Henrico, VA"
-346,255000.0,5,3,1900,"Suffolk, VA"
-347,299000.0,3,2,1300,"Suffolk, VA"
-348,375000.0,3,2,1569,"Suffolk, VA"
-349,285000.0,3,3,1704,"Williamsburg, VA"
-350,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-351,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-352,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-353,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-354,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-355,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-356,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-357,350000.0,4,3,2238,"Fredericksburg, VA"
-358,295000.0,4,3,2016,"Henrico, VA"
-359,305000.0,3,3,1620,"Henrico, VA"
-360,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-361,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-362,260000.0,3,2,2444,"North Chesterfield, VA"
-363,380000.0,5,3,2750,"Midlothian, VA"
-364,489000.0,3,3,2351,"Glen Allen, VA"
-365,285000.0,3,3,1440,"Chesterfield, VA"
-366,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-367,270000.0,3,2,1067,"Fredericksburg, VA"
-368,379000.0,4,3,1940,"Charlottesville, VA"
-369,300000.0,3,2,1905,"Williamsburg, VA"
-370,315000.0,4,4,2695,"North Chesterfield, VA"
-371,234950.0,3,2,1053,"Gloucester, VA"
-372,234900.0,4,2,1568,"Suffolk, VA"
-373,399999.0,4,2,2100,"Montross, VA"
-374,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-375,739000.0,4,3,2768,"Henrico, VA"
-376,255000.0,5,3,1900,"Suffolk, VA"
-377,299000.0,3,2,1300,"Suffolk, VA"
-378,375000.0,3,2,1569,"Suffolk, VA"
-379,285000.0,3,3,1704,"Williamsburg, VA"
-380,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-381,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-382,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-383,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-384,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-385,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-386,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-387,350000.0,4,3,2238,"Fredericksburg, VA"
-388,295000.0,4,3,2016,"Henrico, VA"
-389,305000.0,3,3,1620,"Henrico, VA"
-390,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-391,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-392,260000.0,3,2,2444,"North Chesterfield, VA"
-393,380000.0,5,3,2750,"Midlothian, VA"
-394,489000.0,3,3,2351,"Glen Allen, VA"
-395,285000.0,3,3,1440,"Chesterfield, VA"
-396,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-397,270000.0,3,2,1067,"Fredericksburg, VA"
-398,379000.0,4,3,1940,"Charlottesville, VA"
-399,300000.0,3,2,1905,"Williamsburg, VA"
-400,315000.0,4,4,2695,"North Chesterfield, VA"
-401,234950.0,3,2,1053,"Gloucester, VA"
-402,234900.0,4,2,1568,"Suffolk, VA"
-403,399999.0,4,2,2100,"Montross, VA"
-404,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-405,739000.0,4,3,2768,"Henrico, VA"
-406,255000.0,5,3,1900,"Suffolk, VA"
-407,299000.0,3,2,1300,"Suffolk, VA"
-408,375000.0,3,2,1569,"Suffolk, VA"
-409,285000.0,3,3,1704,"Williamsburg, VA"
-410,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-411,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-412,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-413,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-414,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-415,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-416,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-417,350000.0,4,3,2238,"Fredericksburg, VA"
-418,295000.0,4,3,2016,"Henrico, VA"
-419,305000.0,3,3,1620,"Henrico, VA"
-420,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-421,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-422,260000.0,3,2,2444,"North Chesterfield, VA"
-423,380000.0,5,3,2750,"Midlothian, VA"
-424,489000.0,3,3,2351,"Glen Allen, VA"
-425,285000.0,3,3,1440,"Chesterfield, VA"
-426,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-427,270000.0,3,2,1067,"Fredericksburg, VA"
-428,379000.0,4,3,1940,"Charlottesville, VA"
-429,300000.0,3,2,1905,"Williamsburg, VA"
-430,315000.0,4,4,2695,"North Chesterfield, VA"
-431,234950.0,3,2,1053,"Gloucester, VA"
-432,234900.0,4,2,1568,"Suffolk, VA"
-433,399999.0,4,2,2100,"Montross, VA"
-434,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-435,739000.0,4,3,2768,"Henrico, VA"
-436,255000.0,5,3,1900,"Suffolk, VA"
-437,299000.0,3,2,1300,"Suffolk, VA"
-438,375000.0,3,2,1569,"Suffolk, VA"
-439,285000.0,3,3,1704,"Williamsburg, VA"
-440,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-441,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-442,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-443,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-444,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-445,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-446,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-447,350000.0,4,3,2238,"Fredericksburg, VA"
-448,295000.0,4,3,2016,"Henrico, VA"
-449,305000.0,3,3,1620,"Henrico, VA"
-450,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-451,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-452,260000.0,3,2,2444,"North Chesterfield, VA"
-453,380000.0,5,3,2750,"Midlothian, VA"
-454,489000.0,3,3,2351,"Glen Allen, VA"
-455,285000.0,3,3,1440,"Chesterfield, VA"
-456,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-457,270000.0,3,2,1067,"Fredericksburg, VA"
-458,379000.0,4,3,1940,"Charlottesville, VA"
-459,300000.0,3,2,1905,"Williamsburg, VA"
-460,315000.0,4,4,2695,"North Chesterfield, VA"
-461,234950.0,3,2,1053,"Gloucester, VA"
-462,234900.0,4,2,1568,"Suffolk, VA"
-463,399999.0,4,2,2100,"Montross, VA"
-464,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-465,739000.0,4,3,2768,"Henrico, VA"
-466,255000.0,5,3,1900,"Suffolk, VA"
-467,299000.0,3,2,1300,"Suffolk, VA"
-468,375000.0,3,2,1569,"Suffolk, VA"
-469,285000.0,3,3,1704,"Williamsburg, VA"
-470,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-471,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-472,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-473,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-474,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-475,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-476,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-477,350000.0,4,3,2238,"Fredericksburg, VA"
-478,295000.0,4,3,2016,"Henrico, VA"
-479,305000.0,3,3,1620,"Henrico, VA"
-480,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-481,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-482,260000.0,3,2,2444,"North Chesterfield, VA"
-483,380000.0,5,3,2750,"Midlothian, VA"
-484,489000.0,3,3,2351,"Glen Allen, VA"
-485,285000.0,3,3,1440,"Chesterfield, VA"
-486,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-487,270000.0,3,2,1067,"Fredericksburg, VA"
-488,379000.0,4,3,1940,"Charlottesville, VA"
-489,300000.0,3,2,1905,"Williamsburg, VA"
-490,315000.0,4,4,2695,"North Chesterfield, VA"
-491,234950.0,3,2,1053,"Gloucester, VA"
-492,234900.0,4,2,1568,"Suffolk, VA"
-493,399999.0,4,2,2100,"Montross, VA"
-494,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-495,739000.0,4,3,2768,"Henrico, VA"
-496,255000.0,5,3,1900,"Suffolk, VA"
-497,299000.0,3,2,1300,"Suffolk, VA"
-498,375000.0,3,2,1569,"Suffolk, VA"
-499,285000.0,3,3,1704,"Williamsburg, VA"
-500,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-501,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-502,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-503,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-504,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-505,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-506,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-507,350000.0,4,3,2238,"Fredericksburg, VA"
-508,295000.0,4,3,2016,"Henrico, VA"
-509,305000.0,3,3,1620,"Henrico, VA"
-510,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-511,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-512,260000.0,3,2,2444,"North Chesterfield, VA"
-513,380000.0,5,3,2750,"Midlothian, VA"
-514,489000.0,3,3,2351,"Glen Allen, VA"
-515,285000.0,3,3,1440,"Chesterfield, VA"
-516,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-517,270000.0,3,2,1067,"Fredericksburg, VA"
-518,379000.0,4,3,1940,"Charlottesville, VA"
-519,300000.0,3,2,1905,"Williamsburg, VA"
-520,315000.0,4,4,2695,"North Chesterfield, VA"
-521,234950.0,3,2,1053,"Gloucester, VA"
-522,234900.0,4,2,1568,"Suffolk, VA"
-523,399999.0,4,2,2100,"Montross, VA"
-524,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-525,739000.0,4,3,2768,"Henrico, VA"
-526,255000.0,5,3,1900,"Suffolk, VA"
-527,299000.0,3,2,1300,"Suffolk, VA"
-528,375000.0,3,2,1569,"Suffolk, VA"
-529,285000.0,3,3,1704,"Williamsburg, VA"
-530,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-531,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-532,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-533,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-534,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-535,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-536,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-537,350000.0,4,3,2238,"Fredericksburg, VA"
-538,295000.0,4,3,2016,"Henrico, VA"
-539,305000.0,3,3,1620,"Henrico, VA"
-540,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-541,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-542,260000.0,3,2,2444,"North Chesterfield, VA"
-543,380000.0,5,3,2750,"Midlothian, VA"
-544,489000.0,3,3,2351,"Glen Allen, VA"
-545,285000.0,3,3,1440,"Chesterfield, VA"
-546,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-547,270000.0,3,2,1067,"Fredericksburg, VA"
-548,379000.0,4,3,1940,"Charlottesville, VA"
-549,300000.0,3,2,1905,"Williamsburg, VA"
-550,315000.0,4,4,2695,"North Chesterfield, VA"
-551,234950.0,3,2,1053,"Gloucester, VA"
-552,234900.0,4,2,1568,"Suffolk, VA"
-553,399999.0,4,2,2100,"Montross, VA"
-554,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-555,739000.0,4,3,2768,"Henrico, VA"
-556,255000.0,5,3,1900,"Suffolk, VA"
-557,299000.0,3,2,1300,"Suffolk, VA"
-558,375000.0,3,2,1569,"Suffolk, VA"
-559,285000.0,3,3,1704,"Williamsburg, VA"
-560,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-561,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-562,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-563,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-564,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-565,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-566,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-567,350000.0,4,3,2238,"Fredericksburg, VA"
-568,295000.0,4,3,2016,"Henrico, VA"
-569,305000.0,3,3,1620,"Henrico, VA"
-570,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-571,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-572,260000.0,3,2,2444,"North Chesterfield, VA"
-573,380000.0,5,3,2750,"Midlothian, VA"
-574,489000.0,3,3,2351,"Glen Allen, VA"
-575,285000.0,3,3,1440,"Chesterfield, VA"
-576,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-577,270000.0,3,2,1067,"Fredericksburg, VA"
-578,379000.0,4,3,1940,"Charlottesville, VA"
-579,300000.0,3,2,1905,"Williamsburg, VA"
-580,315000.0,4,4,2695,"North Chesterfield, VA"
-581,234950.0,3,2,1053,"Gloucester, VA"
-582,234900.0,4,2,1568,"Suffolk, VA"
-583,399999.0,4,2,2100,"Montross, VA"
-584,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-585,739000.0,4,3,2768,"Henrico, VA"
-586,255000.0,5,3,1900,"Suffolk, VA"
-587,299000.0,3,2,1300,"Suffolk, VA"
-588,375000.0,3,2,1569,"Suffolk, VA"
-589,285000.0,3,3,1704,"Williamsburg, VA"
-590,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-591,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-592,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-593,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-594,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-595,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-596,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-597,350000.0,4,3,2238,"Fredericksburg, VA"
-598,295000.0,4,3,2016,"Henrico, VA"
-599,305000.0,3,3,1620,"Henrico, VA"
-600,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-601,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-602,260000.0,3,2,2444,"North Chesterfield, VA"
-603,380000.0,5,3,2750,"Midlothian, VA"
-604,489000.0,3,3,2351,"Glen Allen, VA"
-605,285000.0,3,3,1440,"Chesterfield, VA"
-606,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-607,270000.0,3,2,1067,"Fredericksburg, VA"
-608,379000.0,4,3,1940,"Charlottesville, VA"
-609,300000.0,3,2,1905,"Williamsburg, VA"
-610,315000.0,4,4,2695,"North Chesterfield, VA"
-611,234950.0,3,2,1053,"Gloucester, VA"
-612,234900.0,4,2,1568,"Suffolk, VA"
-613,399999.0,4,2,2100,"Montross, VA"
-614,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-615,739000.0,4,3,2768,"Henrico, VA"
-616,255000.0,5,3,1900,"Suffolk, VA"
-617,299000.0,3,2,1300,"Suffolk, VA"
-618,375000.0,3,2,1569,"Suffolk, VA"
-619,285000.0,3,3,1704,"Williamsburg, VA"
-620,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-621,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-622,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-623,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-624,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-625,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-626,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-627,350000.0,4,3,2238,"Fredericksburg, VA"
-628,295000.0,4,3,2016,"Henrico, VA"
-629,305000.0,3,3,1620,"Henrico, VA"
-630,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-631,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-632,260000.0,3,2,2444,"North Chesterfield, VA"
-633,380000.0,5,3,2750,"Midlothian, VA"
-634,489000.0,3,3,2351,"Glen Allen, VA"
-635,285000.0,3,3,1440,"Chesterfield, VA"
-636,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-637,270000.0,3,2,1067,"Fredericksburg, VA"
-638,379000.0,4,3,1940,"Charlottesville, VA"
-639,300000.0,3,2,1905,"Williamsburg, VA"
-640,315000.0,4,4,2695,"North Chesterfield, VA"
-641,234950.0,3,2,1053,"Gloucester, VA"
-642,234900.0,4,2,1568,"Suffolk, VA"
-643,399999.0,4,2,2100,"Montross, VA"
-644,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-645,739000.0,4,3,2768,"Henrico, VA"
-646,255000.0,5,3,1900,"Suffolk, VA"
-647,299000.0,3,2,1300,"Suffolk, VA"
-648,375000.0,3,2,1569,"Suffolk, VA"
-649,285000.0,3,3,1704,"Williamsburg, VA"
-650,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-651,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-652,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-653,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-654,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-655,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-656,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-657,350000.0,4,3,2238,"Fredericksburg, VA"
-658,295000.0,4,3,2016,"Henrico, VA"
-659,305000.0,3,3,1620,"Henrico, VA"
-660,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-661,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-662,260000.0,3,2,2444,"North Chesterfield, VA"
-663,380000.0,5,3,2750,"Midlothian, VA"
-664,489000.0,3,3,2351,"Glen Allen, VA"
-665,285000.0,3,3,1440,"Chesterfield, VA"
-666,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-667,270000.0,3,2,1067,"Fredericksburg, VA"
-668,379000.0,4,3,1940,"Charlottesville, VA"
-669,300000.0,3,2,1905,"Williamsburg, VA"
-670,315000.0,4,4,2695,"North Chesterfield, VA"
-671,234950.0,3,2,1053,"Gloucester, VA"
-672,234900.0,4,2,1568,"Suffolk, VA"
-673,399999.0,4,2,2100,"Montross, VA"
-674,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-675,739000.0,4,3,2768,"Henrico, VA"
-676,255000.0,5,3,1900,"Suffolk, VA"
-677,299000.0,3,2,1300,"Suffolk, VA"
-678,375000.0,3,2,1569,"Suffolk, VA"
-679,285000.0,3,3,1704,"Williamsburg, VA"
-680,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-681,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-682,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-683,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-684,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-685,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-686,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-687,350000.0,4,3,2238,"Fredericksburg, VA"
-688,295000.0,4,3,2016,"Henrico, VA"
-689,305000.0,3,3,1620,"Henrico, VA"
-690,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-691,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-692,260000.0,3,2,2444,"North Chesterfield, VA"
-693,380000.0,5,3,2750,"Midlothian, VA"
-694,489000.0,3,3,2351,"Glen Allen, VA"
-695,285000.0,3,3,1440,"Chesterfield, VA"
-696,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-697,270000.0,3,2,1067,"Fredericksburg, VA"
-698,379000.0,4,3,1940,"Charlottesville, VA"
-699,300000.0,3,2,1905,"Williamsburg, VA"
-700,315000.0,4,4,2695,"North Chesterfield, VA"
-701,234950.0,3,2,1053,"Gloucester, VA"
-702,234900.0,4,2,1568,"Suffolk, VA"
-703,399999.0,4,2,2100,"Montross, VA"
-704,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-705,739000.0,4,3,2768,"Henrico, VA"
-706,255000.0,5,3,1900,"Suffolk, VA"
-707,299000.0,3,2,1300,"Suffolk, VA"
-708,375000.0,3,2,1569,"Suffolk, VA"
-709,285000.0,3,3,1704,"Williamsburg, VA"
-710,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-711,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-712,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-713,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-714,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-715,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-716,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-717,350000.0,4,3,2238,"Fredericksburg, VA"
-718,295000.0,4,3,2016,"Henrico, VA"
-719,305000.0,3,3,1620,"Henrico, VA"
-720,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-721,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-722,260000.0,3,2,2444,"North Chesterfield, VA"
-723,380000.0,5,3,2750,"Midlothian, VA"
-724,489000.0,3,3,2351,"Glen Allen, VA"
-725,285000.0,3,3,1440,"Chesterfield, VA"
-726,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-727,270000.0,3,2,1067,"Fredericksburg, VA"
-728,379000.0,4,3,1940,"Charlottesville, VA"
-729,300000.0,3,2,1905,"Williamsburg, VA"
-730,315000.0,4,4,2695,"North Chesterfield, VA"
-731,234950.0,3,2,1053,"Gloucester, VA"
-732,234900.0,4,2,1568,"Suffolk, VA"
-733,399999.0,4,2,2100,"Montross, VA"
-734,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-735,739000.0,4,3,2768,"Henrico, VA"
-736,255000.0,5,3,1900,"Suffolk, VA"
-737,299000.0,3,2,1300,"Suffolk, VA"
-738,375000.0,3,2,1569,"Suffolk, VA"
-739,285000.0,3,3,1704,"Williamsburg, VA"
-740,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-741,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-742,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-743,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-744,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-745,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-746,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-747,350000.0,4,3,2238,"Fredericksburg, VA"
-748,295000.0,4,3,2016,"Henrico, VA"
-749,305000.0,3,3,1620,"Henrico, VA"
-750,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-751,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-752,260000.0,3,2,2444,"North Chesterfield, VA"
-753,380000.0,5,3,2750,"Midlothian, VA"
-754,489000.0,3,3,2351,"Glen Allen, VA"
-755,285000.0,3,3,1440,"Chesterfield, VA"
-756,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-757,270000.0,3,2,1067,"Fredericksburg, VA"
-758,379000.0,4,3,1940,"Charlottesville, VA"
-759,300000.0,3,2,1905,"Williamsburg, VA"
-760,315000.0,4,4,2695,"North Chesterfield, VA"
-761,234950.0,3,2,1053,"Gloucester, VA"
-762,234900.0,4,2,1568,"Suffolk, VA"
-763,399999.0,4,2,2100,"Montross, VA"
-764,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-765,739000.0,4,3,2768,"Henrico, VA"
-766,255000.0,5,3,1900,"Suffolk, VA"
-767,299000.0,3,2,1300,"Suffolk, VA"
-768,375000.0,3,2,1569,"Suffolk, VA"
-769,285000.0,3,3,1704,"Williamsburg, VA"
-770,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-771,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-772,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-773,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-774,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-775,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-776,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-777,350000.0,4,3,2238,"Fredericksburg, VA"
-778,295000.0,4,3,2016,"Henrico, VA"
-779,305000.0,3,3,1620,"Henrico, VA"
-780,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-781,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-782,260000.0,3,2,2444,"North Chesterfield, VA"
-783,380000.0,5,3,2750,"Midlothian, VA"
-784,489000.0,3,3,2351,"Glen Allen, VA"
-785,285000.0,3,3,1440,"Chesterfield, VA"
-786,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-787,270000.0,3,2,1067,"Fredericksburg, VA"
-788,379000.0,4,3,1940,"Charlottesville, VA"
-789,300000.0,3,2,1905,"Williamsburg, VA"
-790,315000.0,4,4,2695,"North Chesterfield, VA"
-791,234950.0,3,2,1053,"Gloucester, VA"
-792,234900.0,4,2,1568,"Suffolk, VA"
-793,399999.0,4,2,2100,"Montross, VA"
-794,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-795,739000.0,4,3,2768,"Henrico, VA"
-796,255000.0,5,3,1900,"Suffolk, VA"
-797,299000.0,3,2,1300,"Suffolk, VA"
-798,375000.0,3,2,1569,"Suffolk, VA"
-799,285000.0,3,3,1704,"Williamsburg, VA"
-800,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-801,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-802,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-803,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-804,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-805,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-806,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-807,350000.0,4,3,2238,"Fredericksburg, VA"
-808,295000.0,4,3,2016,"Henrico, VA"
-809,305000.0,3,3,1620,"Henrico, VA"
-810,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-811,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-812,260000.0,3,2,2444,"North Chesterfield, VA"
-813,380000.0,5,3,2750,"Midlothian, VA"
-814,489000.0,3,3,2351,"Glen Allen, VA"
-815,285000.0,3,3,1440,"Chesterfield, VA"
-816,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-817,270000.0,3,2,1067,"Fredericksburg, VA"
-818,379000.0,4,3,1940,"Charlottesville, VA"
-819,300000.0,3,2,1905,"Williamsburg, VA"
-820,315000.0,4,4,2695,"North Chesterfield, VA"
-821,234950.0,3,2,1053,"Gloucester, VA"
-822,234900.0,4,2,1568,"Suffolk, VA"
-823,399999.0,4,2,2100,"Montross, VA"
-824,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-825,739000.0,4,3,2768,"Henrico, VA"
-826,255000.0,5,3,1900,"Suffolk, VA"
-827,299000.0,3,2,1300,"Suffolk, VA"
-828,375000.0,3,2,1569,"Suffolk, VA"
-829,285000.0,3,3,1704,"Williamsburg, VA"
-830,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-831,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-832,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-833,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-834,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-835,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-836,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-837,350000.0,4,3,2238,"Fredericksburg, VA"
-838,295000.0,4,3,2016,"Henrico, VA"
-839,305000.0,3,3,1620,"Henrico, VA"
-840,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-841,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-842,260000.0,3,2,2444,"North Chesterfield, VA"
-843,380000.0,5,3,2750,"Midlothian, VA"
-844,489000.0,3,3,2351,"Glen Allen, VA"
-845,285000.0,3,3,1440,"Chesterfield, VA"
-846,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-847,270000.0,3,2,1067,"Fredericksburg, VA"
-848,379000.0,4,3,1940,"Charlottesville, VA"
-849,300000.0,3,2,1905,"Williamsburg, VA"
-850,315000.0,4,4,2695,"North Chesterfield, VA"
-851,234950.0,3,2,1053,"Gloucester, VA"
-852,234900.0,4,2,1568,"Suffolk, VA"
-853,399999.0,4,2,2100,"Montross, VA"
-854,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-855,739000.0,4,3,2768,"Henrico, VA"
-856,255000.0,5,3,1900,"Suffolk, VA"
-857,299000.0,3,2,1300,"Suffolk, VA"
-858,375000.0,3,2,1569,"Suffolk, VA"
-859,285000.0,3,3,1704,"Williamsburg, VA"
-860,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-861,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-862,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-863,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-864,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-865,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-866,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-867,350000.0,4,3,2238,"Fredericksburg, VA"
-868,295000.0,4,3,2016,"Henrico, VA"
-869,305000.0,3,3,1620,"Henrico, VA"
-870,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-871,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-872,260000.0,3,2,2444,"North Chesterfield, VA"
-873,380000.0,5,3,2750,"Midlothian, VA"
-874,489000.0,3,3,2351,"Glen Allen, VA"
-875,285000.0,3,3,1440,"Chesterfield, VA"
-876,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-877,270000.0,3,2,1067,"Fredericksburg, VA"
-878,379000.0,4,3,1940,"Charlottesville, VA"
-879,300000.0,3,2,1905,"Williamsburg, VA"
-880,315000.0,4,4,2695,"North Chesterfield, VA"
-881,234950.0,3,2,1053,"Gloucester, VA"
-882,234900.0,4,2,1568,"Suffolk, VA"
-883,399999.0,4,2,2100,"Montross, VA"
-884,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-885,739000.0,4,3,2768,"Henrico, VA"
-886,255000.0,5,3,1900,"Suffolk, VA"
-887,299000.0,3,2,1300,"Suffolk, VA"
-888,375000.0,3,2,1569,"Suffolk, VA"
-889,285000.0,3,3,1704,"Williamsburg, VA"
-890,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-891,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-892,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-893,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-894,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-895,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-896,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-897,350000.0,4,3,2238,"Fredericksburg, VA"
-898,295000.0,4,3,2016,"Henrico, VA"
-899,305000.0,3,3,1620,"Henrico, VA"
-900,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-901,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-902,260000.0,3,2,2444,"North Chesterfield, VA"
-903,380000.0,5,3,2750,"Midlothian, VA"
-904,489000.0,3,3,2351,"Glen Allen, VA"
-905,285000.0,3,3,1440,"Chesterfield, VA"
-906,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-907,270000.0,3,2,1067,"Fredericksburg, VA"
-908,379000.0,4,3,1940,"Charlottesville, VA"
-909,300000.0,3,2,1905,"Williamsburg, VA"
-910,315000.0,4,4,2695,"North Chesterfield, VA"
-911,234950.0,3,2,1053,"Gloucester, VA"
-912,234900.0,4,2,1568,"Suffolk, VA"
-913,399999.0,4,2,2100,"Montross, VA"
-914,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-915,739000.0,4,3,2768,"Henrico, VA"
-916,255000.0,5,3,1900,"Suffolk, VA"
-917,299000.0,3,2,1300,"Suffolk, VA"
-918,375000.0,3,2,1569,"Suffolk, VA"
-919,285000.0,3,3,1704,"Williamsburg, VA"
-920,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-921,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-922,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-923,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-924,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-925,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-926,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-927,350000.0,4,3,2238,"Fredericksburg, VA"
-928,295000.0,4,3,2016,"Henrico, VA"
-929,305000.0,3,3,1620,"Henrico, VA"
-930,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-931,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-932,260000.0,3,2,2444,"North Chesterfield, VA"
-933,380000.0,5,3,2750,"Midlothian, VA"
-934,489000.0,3,3,2351,"Glen Allen, VA"
-935,285000.0,3,3,1440,"Chesterfield, VA"
-936,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-937,270000.0,3,2,1067,"Fredericksburg, VA"
-938,379000.0,4,3,1940,"Charlottesville, VA"
-939,300000.0,3,2,1905,"Williamsburg, VA"
-940,315000.0,4,4,2695,"North Chesterfield, VA"
-941,234950.0,3,2,1053,"Gloucester, VA"
-942,234900.0,4,2,1568,"Suffolk, VA"
-943,399999.0,4,2,2100,"Montross, VA"
-944,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-945,739000.0,4,3,2768,"Henrico, VA"
-946,255000.0,5,3,1900,"Suffolk, VA"
-947,299000.0,3,2,1300,"Suffolk, VA"
-948,375000.0,3,2,1569,"Suffolk, VA"
-949,285000.0,3,3,1704,"Williamsburg, VA"
-950,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-951,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-952,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-953,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-954,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-955,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-956,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-957,350000.0,4,3,2238,"Fredericksburg, VA"
-958,295000.0,4,3,2016,"Henrico, VA"
-959,305000.0,3,3,1620,"Henrico, VA"
-960,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-961,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-962,260000.0,3,2,2444,"North Chesterfield, VA"
-963,380000.0,5,3,2750,"Midlothian, VA"
-964,489000.0,3,3,2351,"Glen Allen, VA"
-965,285000.0,3,3,1440,"Chesterfield, VA"
-966,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-967,270000.0,3,2,1067,"Fredericksburg, VA"
-968,379000.0,4,3,1940,"Charlottesville, VA"
-969,300000.0,3,2,1905,"Williamsburg, VA"
-970,315000.0,4,4,2695,"North Chesterfield, VA"
-971,234950.0,3,2,1053,"Gloucester, VA"
-972,234900.0,4,2,1568,"Suffolk, VA"
-973,399999.0,4,2,2100,"Montross, VA"
-974,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-975,739000.0,4,3,2768,"Henrico, VA"
-976,255000.0,5,3,1900,"Suffolk, VA"
-977,299000.0,3,2,1300,"Suffolk, VA"
-978,375000.0,3,2,1569,"Suffolk, VA"
-979,285000.0,3,3,1704,"Williamsburg, VA"
-980,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-981,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-982,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-983,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-984,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-985,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-986,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-987,350000.0,4,3,2238,"Fredericksburg, VA"
-988,295000.0,4,3,2016,"Henrico, VA"
-989,305000.0,3,3,1620,"Henrico, VA"
-990,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-991,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-992,260000.0,3,2,2444,"North Chesterfield, VA"
-993,380000.0,5,3,2750,"Midlothian, VA"
-994,489000.0,3,3,2351,"Glen Allen, VA"
-995,285000.0,3,3,1440,"Chesterfield, VA"
-996,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-997,270000.0,3,2,1067,"Fredericksburg, VA"
-998,379000.0,4,3,1940,"Charlottesville, VA"
-999,300000.0,3,2,1905,"Williamsburg, VA"
-1000,315000.0,4,4,2695,"North Chesterfield, VA"
-1001,234950.0,3,2,1053,"Gloucester, VA"
-1002,234900.0,4,2,1568,"Suffolk, VA"
-1003,399999.0,4,2,2100,"Montross, VA"
-1004,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1005,739000.0,4,3,2768,"Henrico, VA"
-1006,255000.0,5,3,1900,"Suffolk, VA"
-1007,299000.0,3,2,1300,"Suffolk, VA"
-1008,375000.0,3,2,1569,"Suffolk, VA"
-1009,285000.0,3,3,1704,"Williamsburg, VA"
-1010,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1011,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1012,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1013,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1014,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1015,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1016,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1017,350000.0,4,3,2238,"Fredericksburg, VA"
-1018,295000.0,4,3,2016,"Henrico, VA"
-1019,305000.0,3,3,1620,"Henrico, VA"
-1020,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1021,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1022,260000.0,3,2,2444,"North Chesterfield, VA"
-1023,380000.0,5,3,2750,"Midlothian, VA"
-1024,489000.0,3,3,2351,"Glen Allen, VA"
-1025,285000.0,3,3,1440,"Chesterfield, VA"
-1026,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1027,270000.0,3,2,1067,"Fredericksburg, VA"
-1028,379000.0,4,3,1940,"Charlottesville, VA"
-1029,300000.0,3,2,1905,"Williamsburg, VA"
-1030,315000.0,4,4,2695,"North Chesterfield, VA"
-1031,234950.0,3,2,1053,"Gloucester, VA"
-1032,234900.0,4,2,1568,"Suffolk, VA"
-1033,399999.0,4,2,2100,"Montross, VA"
-1034,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1035,739000.0,4,3,2768,"Henrico, VA"
-1036,255000.0,5,3,1900,"Suffolk, VA"
-1037,299000.0,3,2,1300,"Suffolk, VA"
-1038,375000.0,3,2,1569,"Suffolk, VA"
-1039,285000.0,3,3,1704,"Williamsburg, VA"
-1040,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1041,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1042,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1043,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1044,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1045,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1046,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1047,350000.0,4,3,2238,"Fredericksburg, VA"
-1048,295000.0,4,3,2016,"Henrico, VA"
-1049,305000.0,3,3,1620,"Henrico, VA"
-1050,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1051,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1052,260000.0,3,2,2444,"North Chesterfield, VA"
-1053,380000.0,5,3,2750,"Midlothian, VA"
-1054,489000.0,3,3,2351,"Glen Allen, VA"
-1055,285000.0,3,3,1440,"Chesterfield, VA"
-1056,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1057,270000.0,3,2,1067,"Fredericksburg, VA"
-1058,379000.0,4,3,1940,"Charlottesville, VA"
-1059,300000.0,3,2,1905,"Williamsburg, VA"
-1060,315000.0,4,4,2695,"North Chesterfield, VA"
-1061,234950.0,3,2,1053,"Gloucester, VA"
-1062,234900.0,4,2,1568,"Suffolk, VA"
-1063,399999.0,4,2,2100,"Montross, VA"
-1064,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1065,739000.0,4,3,2768,"Henrico, VA"
-1066,255000.0,5,3,1900,"Suffolk, VA"
-1067,299000.0,3,2,1300,"Suffolk, VA"
-1068,375000.0,3,2,1569,"Suffolk, VA"
-1069,285000.0,3,3,1704,"Williamsburg, VA"
-1070,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1071,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1072,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1073,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1074,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1075,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1076,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1077,350000.0,4,3,2238,"Fredericksburg, VA"
-1078,295000.0,4,3,2016,"Henrico, VA"
-1079,305000.0,3,3,1620,"Henrico, VA"
-1080,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1081,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1082,260000.0,3,2,2444,"North Chesterfield, VA"
-1083,380000.0,5,3,2750,"Midlothian, VA"
-1084,489000.0,3,3,2351,"Glen Allen, VA"
-1085,285000.0,3,3,1440,"Chesterfield, VA"
-1086,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1087,270000.0,3,2,1067,"Fredericksburg, VA"
-1088,379000.0,4,3,1940,"Charlottesville, VA"
-1089,300000.0,3,2,1905,"Williamsburg, VA"
-1090,315000.0,4,4,2695,"North Chesterfield, VA"
-1091,234950.0,3,2,1053,"Gloucester, VA"
-1092,234900.0,4,2,1568,"Suffolk, VA"
-1093,399999.0,4,2,2100,"Montross, VA"
-1094,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1095,739000.0,4,3,2768,"Henrico, VA"
-1096,255000.0,5,3,1900,"Suffolk, VA"
-1097,299000.0,3,2,1300,"Suffolk, VA"
-1098,375000.0,3,2,1569,"Suffolk, VA"
-1099,285000.0,3,3,1704,"Williamsburg, VA"
-1100,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1101,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1102,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1103,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1104,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1105,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1106,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1107,350000.0,4,3,2238,"Fredericksburg, VA"
-1108,295000.0,4,3,2016,"Henrico, VA"
-1109,305000.0,3,3,1620,"Henrico, VA"
-1110,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1111,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1112,260000.0,3,2,2444,"North Chesterfield, VA"
-1113,380000.0,5,3,2750,"Midlothian, VA"
-1114,489000.0,3,3,2351,"Glen Allen, VA"
-1115,285000.0,3,3,1440,"Chesterfield, VA"
-1116,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1117,270000.0,3,2,1067,"Fredericksburg, VA"
-1118,379000.0,4,3,1940,"Charlottesville, VA"
-1119,300000.0,3,2,1905,"Williamsburg, VA"
-1120,315000.0,4,4,2695,"North Chesterfield, VA"
-1121,234950.0,3,2,1053,"Gloucester, VA"
-1122,234900.0,4,2,1568,"Suffolk, VA"
-1123,399999.0,4,2,2100,"Montross, VA"
-1124,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1125,739000.0,4,3,2768,"Henrico, VA"
-1126,255000.0,5,3,1900,"Suffolk, VA"
-1127,299000.0,3,2,1300,"Suffolk, VA"
-1128,375000.0,3,2,1569,"Suffolk, VA"
-1129,285000.0,3,3,1704,"Williamsburg, VA"
-1130,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1131,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1132,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1133,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1134,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1135,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1136,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1137,350000.0,4,3,2238,"Fredericksburg, VA"
-1138,295000.0,4,3,2016,"Henrico, VA"
-1139,305000.0,3,3,1620,"Henrico, VA"
-1140,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1141,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1142,260000.0,3,2,2444,"North Chesterfield, VA"
-1143,380000.0,5,3,2750,"Midlothian, VA"
-1144,489000.0,3,3,2351,"Glen Allen, VA"
-1145,285000.0,3,3,1440,"Chesterfield, VA"
-1146,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1147,270000.0,3,2,1067,"Fredericksburg, VA"
-1148,379000.0,4,3,1940,"Charlottesville, VA"
-1149,300000.0,3,2,1905,"Williamsburg, VA"
-1150,315000.0,4,4,2695,"North Chesterfield, VA"
-1151,234950.0,3,2,1053,"Gloucester, VA"
-1152,234900.0,4,2,1568,"Suffolk, VA"
-1153,399999.0,4,2,2100,"Montross, VA"
-1154,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1155,739000.0,4,3,2768,"Henrico, VA"
-1156,255000.0,5,3,1900,"Suffolk, VA"
-1157,299000.0,3,2,1300,"Suffolk, VA"
-1158,375000.0,3,2,1569,"Suffolk, VA"
-1159,285000.0,3,3,1704,"Williamsburg, VA"
-1160,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1161,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1162,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1163,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1164,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1165,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1166,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1167,350000.0,4,3,2238,"Fredericksburg, VA"
-1168,295000.0,4,3,2016,"Henrico, VA"
-1169,305000.0,3,3,1620,"Henrico, VA"
-1170,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1171,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1172,260000.0,3,2,2444,"North Chesterfield, VA"
-1173,380000.0,5,3,2750,"Midlothian, VA"
-1174,489000.0,3,3,2351,"Glen Allen, VA"
-1175,285000.0,3,3,1440,"Chesterfield, VA"
-1176,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1177,270000.0,3,2,1067,"Fredericksburg, VA"
-1178,379000.0,4,3,1940,"Charlottesville, VA"
-1179,300000.0,3,2,1905,"Williamsburg, VA"
-1180,315000.0,4,4,2695,"North Chesterfield, VA"
-1181,234950.0,3,2,1053,"Gloucester, VA"
-1182,234900.0,4,2,1568,"Suffolk, VA"
-1183,399999.0,4,2,2100,"Montross, VA"
-1184,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1185,739000.0,4,3,2768,"Henrico, VA"
-1186,255000.0,5,3,1900,"Suffolk, VA"
-1187,299000.0,3,2,1300,"Suffolk, VA"
-1188,375000.0,3,2,1569,"Suffolk, VA"
-1189,285000.0,3,3,1704,"Williamsburg, VA"
-1190,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1191,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1192,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1193,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1194,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1195,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1196,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1197,350000.0,4,3,2238,"Fredericksburg, VA"
-1198,295000.0,4,3,2016,"Henrico, VA"
-1199,305000.0,3,3,1620,"Henrico, VA"
-1200,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1201,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1202,260000.0,3,2,2444,"North Chesterfield, VA"
-1203,380000.0,5,3,2750,"Midlothian, VA"
-1204,489000.0,3,3,2351,"Glen Allen, VA"
-1205,285000.0,3,3,1440,"Chesterfield, VA"
-1206,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1207,270000.0,3,2,1067,"Fredericksburg, VA"
-1208,379000.0,4,3,1940,"Charlottesville, VA"
-1209,300000.0,3,2,1905,"Williamsburg, VA"
-1210,315000.0,4,4,2695,"North Chesterfield, VA"
-1211,234950.0,3,2,1053,"Gloucester, VA"
-1212,234900.0,4,2,1568,"Suffolk, VA"
-1213,399999.0,4,2,2100,"Montross, VA"
-1214,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1215,739000.0,4,3,2768,"Henrico, VA"
-1216,255000.0,5,3,1900,"Suffolk, VA"
-1217,299000.0,3,2,1300,"Suffolk, VA"
-1218,375000.0,3,2,1569,"Suffolk, VA"
-1219,285000.0,3,3,1704,"Williamsburg, VA"
-1220,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1221,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1222,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1223,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1224,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1225,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1226,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1227,350000.0,4,3,2238,"Fredericksburg, VA"
-1228,295000.0,4,3,2016,"Henrico, VA"
-1229,305000.0,3,3,1620,"Henrico, VA"
-1230,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1231,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1232,260000.0,3,2,2444,"North Chesterfield, VA"
-1233,380000.0,5,3,2750,"Midlothian, VA"
-1234,489000.0,3,3,2351,"Glen Allen, VA"
-1235,285000.0,3,3,1440,"Chesterfield, VA"
-1236,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1237,270000.0,3,2,1067,"Fredericksburg, VA"
-1238,379000.0,4,3,1940,"Charlottesville, VA"
-1239,300000.0,3,2,1905,"Williamsburg, VA"
-1240,315000.0,4,4,2695,"North Chesterfield, VA"
-1241,234950.0,3,2,1053,"Gloucester, VA"
-1242,234900.0,4,2,1568,"Suffolk, VA"
-1243,399999.0,4,2,2100,"Montross, VA"
-1244,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1245,739000.0,4,3,2768,"Henrico, VA"
-1246,255000.0,5,3,1900,"Suffolk, VA"
-1247,299000.0,3,2,1300,"Suffolk, VA"
-1248,375000.0,3,2,1569,"Suffolk, VA"
-1249,285000.0,3,3,1704,"Williamsburg, VA"
-1250,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1251,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1252,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1253,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1254,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1255,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1256,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1257,350000.0,4,3,2238,"Fredericksburg, VA"
-1258,295000.0,4,3,2016,"Henrico, VA"
-1259,305000.0,3,3,1620,"Henrico, VA"
-1260,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1261,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1262,260000.0,3,2,2444,"North Chesterfield, VA"
-1263,380000.0,5,3,2750,"Midlothian, VA"
-1264,489000.0,3,3,2351,"Glen Allen, VA"
-1265,285000.0,3,3,1440,"Chesterfield, VA"
-1266,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1267,270000.0,3,2,1067,"Fredericksburg, VA"
-1268,379000.0,4,3,1940,"Charlottesville, VA"
-1269,300000.0,3,2,1905,"Williamsburg, VA"
-1270,315000.0,4,4,2695,"North Chesterfield, VA"
-1271,234950.0,3,2,1053,"Gloucester, VA"
-1272,234900.0,4,2,1568,"Suffolk, VA"
-1273,399999.0,4,2,2100,"Montross, VA"
-1274,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1275,739000.0,4,3,2768,"Henrico, VA"
-1276,255000.0,5,3,1900,"Suffolk, VA"
-1277,299000.0,3,2,1300,"Suffolk, VA"
-1278,375000.0,3,2,1569,"Suffolk, VA"
-1279,285000.0,3,3,1704,"Williamsburg, VA"
-1280,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1281,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1282,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1283,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1284,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1285,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1286,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1287,350000.0,4,3,2238,"Fredericksburg, VA"
-1288,295000.0,4,3,2016,"Henrico, VA"
-1289,305000.0,3,3,1620,"Henrico, VA"
-1290,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1291,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1292,260000.0,3,2,2444,"North Chesterfield, VA"
-1293,380000.0,5,3,2750,"Midlothian, VA"
-1294,489000.0,3,3,2351,"Glen Allen, VA"
-1295,285000.0,3,3,1440,"Chesterfield, VA"
-1296,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1297,270000.0,3,2,1067,"Fredericksburg, VA"
-1298,379000.0,4,3,1940,"Charlottesville, VA"
-1299,300000.0,3,2,1905,"Williamsburg, VA"
-1300,315000.0,4,4,2695,"North Chesterfield, VA"
-1301,234950.0,3,2,1053,"Gloucester, VA"
-1302,234900.0,4,2,1568,"Suffolk, VA"
-1303,399999.0,4,2,2100,"Montross, VA"
-1304,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1305,739000.0,4,3,2768,"Henrico, VA"
-1306,255000.0,5,3,1900,"Suffolk, VA"
-1307,299000.0,3,2,1300,"Suffolk, VA"
-1308,375000.0,3,2,1569,"Suffolk, VA"
-1309,285000.0,3,3,1704,"Williamsburg, VA"
-1310,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1311,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1312,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1313,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1314,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1315,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1316,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1317,350000.0,4,3,2238,"Fredericksburg, VA"
-1318,295000.0,4,3,2016,"Henrico, VA"
-1319,305000.0,3,3,1620,"Henrico, VA"
-1320,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1321,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1322,260000.0,3,2,2444,"North Chesterfield, VA"
-1323,380000.0,5,3,2750,"Midlothian, VA"
-1324,489000.0,3,3,2351,"Glen Allen, VA"
-1325,285000.0,3,3,1440,"Chesterfield, VA"
-1326,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1327,270000.0,3,2,1067,"Fredericksburg, VA"
-1328,379000.0,4,3,1940,"Charlottesville, VA"
-1329,300000.0,3,2,1905,"Williamsburg, VA"
-1330,315000.0,4,4,2695,"North Chesterfield, VA"
-1331,234950.0,3,2,1053,"Gloucester, VA"
-1332,234900.0,4,2,1568,"Suffolk, VA"
-1333,399999.0,4,2,2100,"Montross, VA"
-1334,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1335,739000.0,4,3,2768,"Henrico, VA"
-1336,255000.0,5,3,1900,"Suffolk, VA"
-1337,299000.0,3,2,1300,"Suffolk, VA"
-1338,375000.0,3,2,1569,"Suffolk, VA"
-1339,285000.0,3,3,1704,"Williamsburg, VA"
-1340,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1341,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1342,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1343,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1344,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1345,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1346,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1347,350000.0,4,3,2238,"Fredericksburg, VA"
-1348,295000.0,4,3,2016,"Henrico, VA"
-1349,305000.0,3,3,1620,"Henrico, VA"
-1350,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1351,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1352,260000.0,3,2,2444,"North Chesterfield, VA"
-1353,380000.0,5,3,2750,"Midlothian, VA"
-1354,489000.0,3,3,2351,"Glen Allen, VA"
-1355,285000.0,3,3,1440,"Chesterfield, VA"
-1356,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1357,270000.0,3,2,1067,"Fredericksburg, VA"
-1358,379000.0,4,3,1940,"Charlottesville, VA"
-1359,300000.0,3,2,1905,"Williamsburg, VA"
-1360,315000.0,4,4,2695,"North Chesterfield, VA"
-1361,234950.0,3,2,1053,"Gloucester, VA"
-1362,234900.0,4,2,1568,"Suffolk, VA"
-1363,399999.0,4,2,2100,"Montross, VA"
-1364,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1365,739000.0,4,3,2768,"Henrico, VA"
-1366,255000.0,5,3,1900,"Suffolk, VA"
-1367,299000.0,3,2,1300,"Suffolk, VA"
-1368,375000.0,3,2,1569,"Suffolk, VA"
-1369,285000.0,3,3,1704,"Williamsburg, VA"
-1370,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1371,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1372,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1373,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1374,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1375,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1376,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1377,350000.0,4,3,2238,"Fredericksburg, VA"
-1378,295000.0,4,3,2016,"Henrico, VA"
-1379,305000.0,3,3,1620,"Henrico, VA"
-1380,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1381,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1382,260000.0,3,2,2444,"North Chesterfield, VA"
-1383,380000.0,5,3,2750,"Midlothian, VA"
-1384,489000.0,3,3,2351,"Glen Allen, VA"
-1385,285000.0,3,3,1440,"Chesterfield, VA"
-1386,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1387,270000.0,3,2,1067,"Fredericksburg, VA"
-1388,379000.0,4,3,1940,"Charlottesville, VA"
-1389,300000.0,3,2,1905,"Williamsburg, VA"
-1390,315000.0,4,4,2695,"North Chesterfield, VA"
-1391,234950.0,3,2,1053,"Gloucester, VA"
-1392,234900.0,4,2,1568,"Suffolk, VA"
-1393,399999.0,4,2,2100,"Montross, VA"
-1394,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1395,739000.0,4,3,2768,"Henrico, VA"
-1396,255000.0,5,3,1900,"Suffolk, VA"
-1397,299000.0,3,2,1300,"Suffolk, VA"
-1398,375000.0,3,2,1569,"Suffolk, VA"
-1399,285000.0,3,3,1704,"Williamsburg, VA"
-1400,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1401,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1402,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1403,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1404,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1405,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1406,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1407,350000.0,4,3,2238,"Fredericksburg, VA"
-1408,295000.0,4,3,2016,"Henrico, VA"
-1409,305000.0,3,3,1620,"Henrico, VA"
-1410,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1411,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1412,260000.0,3,2,2444,"North Chesterfield, VA"
-1413,380000.0,5,3,2750,"Midlothian, VA"
-1414,489000.0,3,3,2351,"Glen Allen, VA"
-1415,285000.0,3,3,1440,"Chesterfield, VA"
-1416,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1417,270000.0,3,2,1067,"Fredericksburg, VA"
-1418,379000.0,4,3,1940,"Charlottesville, VA"
-1419,300000.0,3,2,1905,"Williamsburg, VA"
-1420,315000.0,4,4,2695,"North Chesterfield, VA"
-1421,234950.0,3,2,1053,"Gloucester, VA"
-1422,234900.0,4,2,1568,"Suffolk, VA"
-1423,399999.0,4,2,2100,"Montross, VA"
-1424,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1425,739000.0,4,3,2768,"Henrico, VA"
-1426,255000.0,5,3,1900,"Suffolk, VA"
-1427,299000.0,3,2,1300,"Suffolk, VA"
-1428,375000.0,3,2,1569,"Suffolk, VA"
-1429,285000.0,3,3,1704,"Williamsburg, VA"
-1430,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1431,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1432,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1433,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1434,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1435,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1436,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1437,350000.0,4,3,2238,"Fredericksburg, VA"
-1438,295000.0,4,3,2016,"Henrico, VA"
-1439,305000.0,3,3,1620,"Henrico, VA"
-1440,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA"
-1441,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA"
-1442,260000.0,3,2,2444,"North Chesterfield, VA"
-1443,380000.0,5,3,2750,"Midlothian, VA"
-1444,489000.0,3,3,2351,"Glen Allen, VA"
-1445,285000.0,3,3,1440,"Chesterfield, VA"
-1446,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA"
-1447,270000.0,3,2,1067,"Fredericksburg, VA"
-1448,379000.0,4,3,1940,"Charlottesville, VA"
-1449,300000.0,3,2,1905,"Williamsburg, VA"
-1450,315000.0,4,4,2695,"North Chesterfield, VA"
-1451,234950.0,3,2,1053,"Gloucester, VA"
-1452,234900.0,4,2,1568,"Suffolk, VA"
-1453,399999.0,4,2,2100,"Montross, VA"
-1454,365000.0,3,2,1388,"Forest Hill, Richmond, VA"
-1455,739000.0,4,3,2768,"Henrico, VA"
-1456,255000.0,5,3,1900,"Suffolk, VA"
-1457,299000.0,3,2,1300,"Suffolk, VA"
-1458,375000.0,3,2,1569,"Suffolk, VA"
-1459,285000.0,3,3,1704,"Williamsburg, VA"
-1460,189900.0,2,2,979,"British Camp Farms, Richmond, VA"
-1461,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA"
-1462,195000.0,3,2,1248,"Indian River, Chesapeake, VA"
-1463,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA"
-1464,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA"
-1465,240000.0,4,2,2620,"Mercury Central, Hampton, VA"
-1466,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA"
-1467,350000.0,4,3,2238,"Fredericksburg, VA"
-1468,295000.0,4,3,2016,"Henrico, VA"
-1469,305000.0,3,3,1620,"Henrico, VA"
+,Prices,Beds,Baths,SquareFt,Loc,p/sf
+0,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+2,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+3,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+4,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+5,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+6,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+7,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+8,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+9,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+10,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+11,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+12,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+13,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+14,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+15,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+16,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+17,299000.0,3,2,1300,"Suffolk, VA",230.0
+18,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+19,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+20,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+21,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+22,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+23,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+24,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+25,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+26,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+27,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+28,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+29,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+30,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+31,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+32,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+33,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+34,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+35,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+36,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+37,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+38,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+39,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+40,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+41,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+42,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+43,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+44,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+45,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+46,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+47,299000.0,3,2,1300,"Suffolk, VA",230.0
+48,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+49,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+50,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+51,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+52,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+53,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+54,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+55,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+56,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+57,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+58,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+59,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+60,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+61,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+62,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+63,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+64,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+65,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+66,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+67,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+68,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+69,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+70,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+71,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+72,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+73,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+74,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+75,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+76,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+77,299000.0,3,2,1300,"Suffolk, VA",230.0
+78,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+79,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+80,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+81,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+82,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+83,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+84,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+85,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+86,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+87,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+88,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+89,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+90,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+91,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+92,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+93,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+94,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+95,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+96,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+97,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+98,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+99,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+100,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+101,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+102,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+103,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+104,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+105,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+106,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+107,299000.0,3,2,1300,"Suffolk, VA",230.0
+108,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+109,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+110,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+111,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+112,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+113,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+114,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+115,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+116,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+117,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+118,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+119,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+120,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+121,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+122,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+123,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+124,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+125,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+126,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+127,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+128,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+129,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+130,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+131,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+132,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+133,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+134,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+135,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+136,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+137,299000.0,3,2,1300,"Suffolk, VA",230.0
+138,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+139,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+140,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+141,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+142,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+143,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+144,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+145,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+146,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+147,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+148,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+149,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+150,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+151,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+152,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+153,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+154,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+155,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+156,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+157,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+158,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+159,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+160,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+161,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+162,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+163,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+164,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+165,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+166,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+167,299000.0,3,2,1300,"Suffolk, VA",230.0
+168,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+169,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+170,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+171,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+172,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+173,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+174,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+175,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+176,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+177,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+178,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+179,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+180,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+181,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+182,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+183,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+184,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+185,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+186,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+187,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+188,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+189,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+190,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+191,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+192,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+193,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+194,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+195,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+196,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+197,299000.0,3,2,1300,"Suffolk, VA",230.0
+198,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+199,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+200,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+201,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+202,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+203,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+204,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+205,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+206,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+207,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+208,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+209,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+210,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+211,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+212,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+213,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+214,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+215,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+216,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+217,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+218,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+219,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+220,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+221,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+222,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+223,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+224,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+225,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+226,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+227,299000.0,3,2,1300,"Suffolk, VA",230.0
+228,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+229,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+230,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+231,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+232,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+233,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+234,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+235,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+236,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+237,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+238,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+239,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+240,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+241,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+242,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+243,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+244,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+245,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+246,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+247,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+248,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+249,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+250,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+251,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+252,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+253,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+254,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+255,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+256,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+257,299000.0,3,2,1300,"Suffolk, VA",230.0
+258,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+259,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+260,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+261,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+262,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+263,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+264,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+265,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+266,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+267,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+268,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+269,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+270,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+271,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+272,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+273,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+274,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+275,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+276,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+277,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+278,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+279,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+280,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+281,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+282,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+283,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+284,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+285,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+286,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+287,299000.0,3,2,1300,"Suffolk, VA",230.0
+288,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+289,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+290,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+291,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+292,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+293,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+294,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+295,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+296,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+297,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+298,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+299,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+300,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+301,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+302,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+303,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+304,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+305,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+306,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+307,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+308,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+309,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+310,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+311,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+312,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+313,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+314,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+315,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+316,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+317,299000.0,3,2,1300,"Suffolk, VA",230.0
+318,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+319,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+320,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+321,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+322,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+323,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+324,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+325,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+326,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+327,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+328,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+329,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+330,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+331,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+332,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+333,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+334,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+335,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+336,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+337,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+338,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+339,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+340,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+341,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+342,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+343,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+344,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+345,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+346,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+347,299000.0,3,2,1300,"Suffolk, VA",230.0
+348,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+349,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+350,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+351,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+352,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+353,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+354,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+355,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+356,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+357,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+358,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+359,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+360,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+361,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+362,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+363,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+364,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+365,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+366,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+367,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+368,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+369,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+370,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+371,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+372,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+373,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+374,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+375,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+376,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+377,299000.0,3,2,1300,"Suffolk, VA",230.0
+378,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+379,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+380,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+381,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+382,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+383,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+384,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+385,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+386,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+387,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+388,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+389,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+390,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+391,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+392,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+393,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+394,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+395,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+396,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+397,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+398,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+399,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+400,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+401,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+402,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+403,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+404,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+405,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+406,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+407,299000.0,3,2,1300,"Suffolk, VA",230.0
+408,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+409,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+410,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+411,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+412,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+413,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+414,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+415,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+416,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+417,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+418,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+419,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+420,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+421,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+422,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+423,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+424,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+425,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+426,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+427,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+428,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+429,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+430,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+431,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+432,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+433,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+434,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+435,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+436,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+437,299000.0,3,2,1300,"Suffolk, VA",230.0
+438,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+439,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+440,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+441,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+442,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+443,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+444,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+445,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+446,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+447,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+448,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+449,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+450,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+451,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+452,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+453,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+454,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+455,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+456,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+457,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+458,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+459,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+460,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+461,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+462,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+463,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+464,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+465,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+466,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+467,299000.0,3,2,1300,"Suffolk, VA",230.0
+468,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+469,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+470,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+471,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+472,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+473,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+474,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+475,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+476,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+477,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+478,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+479,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+480,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+481,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+482,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+483,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+484,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+485,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+486,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+487,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+488,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+489,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+490,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+491,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+492,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+493,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+494,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+495,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+496,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+497,299000.0,3,2,1300,"Suffolk, VA",230.0
+498,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+499,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+500,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+501,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+502,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+503,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+504,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+505,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+506,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+507,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+508,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+509,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+510,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+511,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+512,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+513,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+514,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+515,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+516,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+517,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+518,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+519,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+520,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+521,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+522,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+523,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+524,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+525,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+526,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+527,299000.0,3,2,1300,"Suffolk, VA",230.0
+528,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+529,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+530,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+531,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+532,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+533,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+534,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+535,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+536,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+537,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+538,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+539,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+540,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+541,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+542,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+543,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+544,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+545,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+546,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+547,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+548,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+549,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+550,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+551,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+552,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+553,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+554,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+555,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+556,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+557,299000.0,3,2,1300,"Suffolk, VA",230.0
+558,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+559,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+560,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+561,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+562,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+563,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+564,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+565,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+566,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+567,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+568,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+569,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+570,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+571,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+572,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+573,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+574,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+575,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+576,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+577,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+578,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+579,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+580,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+581,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+582,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+583,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+584,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+585,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+586,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+587,299000.0,3,2,1300,"Suffolk, VA",230.0
+588,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+589,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+590,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+591,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+592,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+593,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+594,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+595,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+596,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+597,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+598,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+599,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+600,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+601,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+602,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+603,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+604,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+605,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+606,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+607,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+608,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+609,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+610,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+611,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+612,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+613,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+614,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+615,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+616,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+617,299000.0,3,2,1300,"Suffolk, VA",230.0
+618,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+619,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+620,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+621,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+622,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+623,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+624,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+625,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+626,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+627,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+628,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+629,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+630,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+631,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+632,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+633,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+634,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+635,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+636,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+637,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+638,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+639,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+640,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+641,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+642,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+643,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+644,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+645,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+646,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+647,299000.0,3,2,1300,"Suffolk, VA",230.0
+648,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+649,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+650,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+651,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+652,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+653,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+654,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+655,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+656,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+657,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+658,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+659,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+660,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+661,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+662,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+663,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+664,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+665,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+666,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+667,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+668,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+669,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+670,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+671,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+672,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+673,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+674,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+675,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+676,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+677,299000.0,3,2,1300,"Suffolk, VA",230.0
+678,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+679,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+680,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+681,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+682,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+683,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+684,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+685,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+686,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+687,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+688,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+689,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+690,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+691,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+692,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+693,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+694,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+695,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+696,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+697,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+698,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+699,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+700,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+701,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+702,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+703,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+704,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+705,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+706,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+707,299000.0,3,2,1300,"Suffolk, VA",230.0
+708,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+709,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+710,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+711,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+712,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+713,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+714,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+715,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+716,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+717,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+718,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+719,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+720,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+721,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+722,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+723,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+724,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+725,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+726,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+727,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+728,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+729,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+730,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+731,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+732,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+733,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+734,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+735,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+736,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+737,299000.0,3,2,1300,"Suffolk, VA",230.0
+738,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+739,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+740,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+741,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+742,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+743,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+744,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+745,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+746,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+747,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+748,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+749,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+750,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+751,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+752,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+753,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+754,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+755,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+756,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+757,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+758,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+759,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+760,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+761,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+762,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+763,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+764,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+765,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+766,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+767,299000.0,3,2,1300,"Suffolk, VA",230.0
+768,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+769,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+770,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+771,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+772,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+773,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+774,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+775,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+776,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+777,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+778,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+779,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+780,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+781,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+782,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+783,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+784,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+785,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+786,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+787,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+788,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+789,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+790,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+791,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+792,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+793,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+794,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+795,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+796,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+797,299000.0,3,2,1300,"Suffolk, VA",230.0
+798,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+799,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+800,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+801,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+802,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+803,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+804,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+805,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+806,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+807,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+808,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+809,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+810,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+811,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+812,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+813,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+814,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+815,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+816,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+817,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+818,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+819,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+820,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+821,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+822,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+823,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+824,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+825,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+826,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+827,299000.0,3,2,1300,"Suffolk, VA",230.0
+828,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+829,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+830,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+831,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+832,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+833,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+834,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+835,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+836,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+837,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+838,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+839,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+840,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+841,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+842,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+843,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+844,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+845,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+846,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+847,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+848,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+849,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+850,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+851,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+852,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+853,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+854,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+855,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+856,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+857,299000.0,3,2,1300,"Suffolk, VA",230.0
+858,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+859,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+860,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+861,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+862,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+863,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+864,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+865,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+866,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+867,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+868,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+869,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+870,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+871,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+872,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+873,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+874,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+875,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+876,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+877,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+878,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+879,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+880,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+881,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+882,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+883,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+884,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+885,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+886,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+887,299000.0,3,2,1300,"Suffolk, VA",230.0
+888,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+889,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+890,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+891,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+892,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+893,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+894,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+895,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+896,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+897,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+898,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+899,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+900,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+901,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+902,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+903,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+904,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+905,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+906,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+907,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+908,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+909,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+910,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+911,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+912,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+913,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+914,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+915,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+916,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+917,299000.0,3,2,1300,"Suffolk, VA",230.0
+918,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+919,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+920,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+921,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+922,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+923,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+924,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+925,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+926,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+927,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+928,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+929,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+930,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+931,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+932,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+933,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+934,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+935,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+936,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+937,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+938,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+939,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+940,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+941,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+942,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+943,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+944,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+945,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+946,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+947,299000.0,3,2,1300,"Suffolk, VA",230.0
+948,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+949,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+950,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+951,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+952,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+953,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+954,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+955,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+956,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+957,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+958,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+959,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+960,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+961,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+962,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+963,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+964,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+965,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+966,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+967,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+968,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+969,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+970,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+971,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+972,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+973,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+974,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+975,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+976,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+977,299000.0,3,2,1300,"Suffolk, VA",230.0
+978,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+979,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+980,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+981,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+982,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+983,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+984,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+985,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+986,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+987,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+988,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+989,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+990,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+991,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+992,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+993,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+994,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+995,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+996,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+997,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+998,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+999,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1000,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1001,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1002,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1003,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1004,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1005,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1006,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1007,299000.0,3,2,1300,"Suffolk, VA",230.0
+1008,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1009,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1010,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1011,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1012,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1013,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1014,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1015,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1016,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1017,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1018,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1019,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1020,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1021,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1022,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1023,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1024,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1025,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1026,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1027,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1028,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1029,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1030,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1031,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1032,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1033,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1034,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1035,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1036,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1037,299000.0,3,2,1300,"Suffolk, VA",230.0
+1038,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1039,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1040,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1041,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1042,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1043,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1044,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1045,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1046,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1047,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1048,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1049,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1050,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1051,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1052,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1053,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1054,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1055,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1056,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1057,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1058,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1059,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1060,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1061,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1062,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1063,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1064,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1065,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1066,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1067,299000.0,3,2,1300,"Suffolk, VA",230.0
+1068,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1069,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1070,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1071,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1072,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1073,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1074,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1075,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1076,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1077,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1078,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1079,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1080,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1081,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1082,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1083,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1084,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1085,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1086,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1087,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1088,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1089,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1090,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1091,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1092,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1093,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1094,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1095,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1096,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1097,299000.0,3,2,1300,"Suffolk, VA",230.0
+1098,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1099,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1100,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1101,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1102,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1103,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1104,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1105,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1106,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1107,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1108,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1109,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1110,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1111,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1112,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1113,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1114,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1115,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1116,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1117,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1118,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1119,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1120,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1121,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1122,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1123,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1124,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1125,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1126,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1127,299000.0,3,2,1300,"Suffolk, VA",230.0
+1128,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1129,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1130,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1131,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1132,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1133,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1134,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1135,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1136,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1137,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1138,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1139,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1140,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1141,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1142,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1143,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1144,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1145,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1146,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1147,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1148,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1149,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1150,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1151,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1152,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1153,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1154,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1155,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1156,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1157,299000.0,3,2,1300,"Suffolk, VA",230.0
+1158,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1159,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1160,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1161,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1162,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1163,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1164,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1165,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1166,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1167,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1168,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1169,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1170,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1171,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1172,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1173,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1174,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1175,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1176,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1177,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1178,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1179,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1180,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1181,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1182,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1183,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1184,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1185,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1186,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1187,299000.0,3,2,1300,"Suffolk, VA",230.0
+1188,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1189,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1190,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1191,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1192,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1193,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1194,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1195,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1196,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1197,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1198,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1199,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1200,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1201,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1202,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1203,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1204,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1205,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1206,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1207,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1208,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1209,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1210,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1211,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1212,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1213,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1214,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1215,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1216,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1217,299000.0,3,2,1300,"Suffolk, VA",230.0
+1218,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1219,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1220,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1221,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1222,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1223,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1224,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1225,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1226,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1227,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1228,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1229,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1230,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1231,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1232,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1233,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1234,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1235,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1236,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1237,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1238,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1239,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1240,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1241,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1242,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1243,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1244,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1245,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1246,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1247,299000.0,3,2,1300,"Suffolk, VA",230.0
+1248,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1249,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1250,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1251,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1252,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1253,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1254,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1255,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1256,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1257,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1258,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1259,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1260,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1261,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1262,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1263,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1264,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1265,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1266,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1267,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1268,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1269,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1270,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1271,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1272,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1273,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1274,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1275,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1276,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1277,299000.0,3,2,1300,"Suffolk, VA",230.0
+1278,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1279,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1280,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1281,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1282,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1283,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1284,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1285,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1286,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1287,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1288,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1289,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1290,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1291,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1292,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1293,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1294,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1295,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1296,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1297,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1298,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1299,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1300,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1301,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1302,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1303,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1304,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1305,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1306,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1307,299000.0,3,2,1300,"Suffolk, VA",230.0
+1308,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1309,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1310,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1311,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1312,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1313,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1314,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1315,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1316,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1317,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1318,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1319,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1320,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1321,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1322,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1323,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1324,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1325,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1326,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1327,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1328,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1329,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1330,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1331,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1332,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1333,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1334,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1335,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1336,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1337,299000.0,3,2,1300,"Suffolk, VA",230.0
+1338,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1339,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1340,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1341,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1342,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1343,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1344,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1345,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1346,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1347,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1348,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1349,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1350,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1351,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1352,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1353,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1354,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1355,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1356,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1357,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1358,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1359,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1360,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1361,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1362,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1363,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1364,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1365,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1366,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1367,299000.0,3,2,1300,"Suffolk, VA",230.0
+1368,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1369,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1370,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1371,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1372,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1373,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1374,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1375,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1376,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1377,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1378,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1379,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1380,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1381,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1382,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1383,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1384,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1385,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1386,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1387,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1388,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1389,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1390,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1391,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1392,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1393,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1394,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1395,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1396,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1397,299000.0,3,2,1300,"Suffolk, VA",230.0
+1398,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1399,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1400,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1401,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1402,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1403,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1404,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1405,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1406,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1407,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1408,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1409,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1410,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1411,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1412,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1413,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1414,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1415,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1416,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1417,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1418,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1419,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1420,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1421,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1422,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1423,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1424,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1425,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1426,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1427,299000.0,3,2,1300,"Suffolk, VA",230.0
+1428,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1429,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1430,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1431,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1432,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1433,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1434,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1435,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1436,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1437,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1438,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1439,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
+1440,270000.0,4,3,2283,"Western Branch South, Chesapeake, VA",118.26544021024966
+1441,299750.0,4,2,1750,"South Norfolk, Chesapeake, VA",171.28571428571428
+1442,260000.0,3,2,2444,"North Chesterfield, VA",106.38297872340425
+1443,380000.0,5,3,2750,"Midlothian, VA",138.1818181818182
+1444,489000.0,3,3,2351,"Glen Allen, VA",207.99659719268396
+1445,285000.0,3,3,1440,"Chesterfield, VA",197.91666666666666
+1446,250000.0,4,3,2350,"Western Branch South, Chesapeake, VA",106.38297872340425
+1447,270000.0,3,2,1067,"Fredericksburg, VA",253.04592314901592
+1448,379000.0,4,3,1940,"Charlottesville, VA",195.36082474226805
+1449,300000.0,3,2,1905,"Williamsburg, VA",157.48031496062993
+1450,315000.0,4,4,2695,"North Chesterfield, VA",116.88311688311688
+1451,234950.0,3,2,1053,"Gloucester, VA",223.12440645773978
+1452,234900.0,4,2,1568,"Suffolk, VA",149.80867346938774
+1453,399999.0,4,2,2100,"Montross, VA",190.47571428571428
+1454,365000.0,3,2,1388,"Forest Hill, Richmond, VA",262.9682997118156
+1455,739000.0,4,3,2768,"Henrico, VA",266.9797687861272
+1456,255000.0,5,3,1900,"Suffolk, VA",134.21052631578948
+1457,299000.0,3,2,1300,"Suffolk, VA",230.0
+1458,375000.0,3,2,1569,"Suffolk, VA",239.0057361376673
+1459,285000.0,3,3,1704,"Williamsburg, VA",167.25352112676057
+1460,189900.0,2,2,979,"British Camp Farms, Richmond, VA",193.97344228804903
+1461,300000.0,3,3,2144,"Greenbrier West, Chesapeake, VA",139.92537313432837
+1462,195000.0,3,2,1248,"Indian River, Chesapeake, VA",156.25
+1463,259900.0,3,3,1363,"Mayfield, Fredericksburg, VA",190.68231841526045
+1464,500000.0,4,3,2300,"Great Bridge, Chesapeake, VA",217.3913043478261
+1465,240000.0,4,2,2620,"Mercury Central, Hampton, VA",91.6030534351145
+1466,310000.0,4,3,2000,"Great Bridge East, Chesapeake, VA",155.0
+1467,350000.0,4,3,2238,"Fredericksburg, VA",156.38963360142984
+1468,295000.0,4,3,2016,"Henrico, VA",146.3293650793651
+1469,305000.0,3,3,1620,"Henrico, VA",188.2716049382716
