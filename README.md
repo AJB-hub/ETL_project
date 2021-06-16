@@ -27,10 +27,14 @@ Data is also added to a pymongo server in attached notebook, which could be acce
 Using our initial data scraped from trulia, we were able to reach some conclusions about the real estate market en masse. 
 
 From our data set, prices appear to be centralized around $300,000.  
-![g1](https://user-images.githubusercontent.com/12026338/122141964-6ee77200-ce1c-11eb-96e6-e5f51629d235.PNG)
+
+![g1](https://user-images.githubusercontent.com/12026338/122305937-a23a0780-ced5-11eb-8f28-ff09541fa0fc.png)
+
 
 Price per Square Foot was centralized around $200.  
-![g2](https://user-images.githubusercontent.com/12026338/122141979-77d84380-ce1c-11eb-952c-20b71d742272.PNG)
+
+![g2](https://user-images.githubusercontent.com/12026338/122305999-bbdb4f00-ced5-11eb-92da-4abbba88a7e9.png)
+
 
 
 PCA yielded unclear results, requiring more indicators and data points to make a clear distinction.   
