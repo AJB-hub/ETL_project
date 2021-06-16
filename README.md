@@ -37,7 +37,7 @@ Price per Square Foot was centralized around $200.
 
 
 
-PCA yielded unclear results, requiring more indicators and data points to make a clear distinction.   
+PCA yielded unclear results, requiring more indicators and data points to make a clear distinction between counties.   
 
 ![g3](https://user-images.githubusercontent.com/12026338/122307266-01991700-ced8-11eb-8646-19e9bd4eac5b.png)
 
