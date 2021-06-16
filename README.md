@@ -18,6 +18,9 @@ Data is converted to a CSV file via Pandas, and loaded into a mongoDB database, 
 
 ![Mongo](https://user-images.githubusercontent.com/12026338/122141958-6b53eb00-ce1c-11eb-9e96-0df3c28ef33b.PNG)
 
+Data is also added to a pymongo server in attached notebook, which could be accessed via a flask app and displayed on an html webpage. 
+
+![pymongo](https://user-images.githubusercontent.com/12026338/122303263-47061600-ced1-11eb-9906-af1e879f7348.png)
 
 
 ### Data Analysis
