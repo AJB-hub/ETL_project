@@ -16,7 +16,7 @@ Data transformation takes place as part of the extraction process to ensure data
 ### Data Loading
 Data is converted to a CSV file via Pandas, and loaded into a mongoDB database, which can then be access locally or remotely. With the addition of multiple CSV files over time to the database, a more clear story can be told about the real estate market in Virginia. In particular, the use of time series to measure the changes in house prices for different counties in the state.
 
-![Mongo](https://user-images.githubusercontent.com/12026338/122141958-6b53eb00-ce1c-11eb-9e96-0df3c28ef33b.PNG)
+![mongo](https://user-images.githubusercontent.com/12026338/122306312-35733d00-ced6-11eb-81c2-334156505280.png)
 
 Data is also added to a pymongo server in attached notebook, which could be accessed via a flask app and displayed on an html webpage. 
 
