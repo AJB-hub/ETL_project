@@ -2,7 +2,7 @@
 Using the Python Libraries Splinter and BeautifulSoup, data is scraped from https://www.trulia.com/, a real estate listing website, to identify trends in Virginia's real estate market. 
 
 ### Data Extraction
-Using a jupyter notebook, the web scraping app was created which visits a url of trulia's website. The app creates a local web browser which is controlled by the python app to navigate multiple pages of HTML. Data is extracted by ID tags in the HTML, converted from string to int in cases when warranted, and stored in a Pandas DataFrame. 
+Using a jupyter notebook, a web scraping app is created which visits a url of trulia's website. The app creates a local web browser which is controlled by the python app to navigate multiple pages of HTML. Data is extracted by ID tags in the HTML, converted from string to int in cases when warranted, and stored in a Pandas DataFrame. 
 
 ![Extract](https://user-images.githubusercontent.com/12026338/122141913-58411b00-ce1c-11eb-9fd5-7629ef761312.PNG)
 
